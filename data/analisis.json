@@ -1,0 +1,13 @@
+{
+  "temas": {
+    "demoras": 3,
+    "congestion": 1,
+    "ocupacion": 1,
+    "informacion": 1,
+    "seguridad": 1
+  },
+  "lugares": {
+    "Suba": 2
+  },
+  "total": 6
+}
